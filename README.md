@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih Tahir Akbas</h1>
-<h3 align="center">I'm a computer engineering and interested in mobile developing.</h3>
+<h3 align="center">I'm a computer engineering and interested in mobile application development.</h3>
 
 - 🔭 I’m currently working on **yoklama_app**
 
