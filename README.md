@@ -13,9 +13,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="apple" width="40" height="40"/>
 </p>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="cplusplus" width="40" height="40"/>
 </p>
