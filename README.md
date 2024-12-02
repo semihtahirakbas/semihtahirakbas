@@ -12,9 +12,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.apple.com/swift/"><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40"/></a>
-  <a href="https://www.apple.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="apple" width="40"/></a>
-  <a href="https://www.apple.com/"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="apple" width="40"/></a>
+  <a href="https://developer.apple.com/swift/"><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="48"/></a>
+  <a href="https://www.apple.com/"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="apple" width="48"/></a>
   
 </p>
 <p align="left">
