@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih Tahir Akbas</h1>
-<h3 align="center">I'm a computer engineering and interested in mobile application development.</h3>
+<h3 align="center">I'm a computer engineering and interested in IOS mobile application development.</h3>
 
-- 🔭 I’m currently working on **yoklama_app**
-
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **tahir.akbas34@gmail.com**
 
